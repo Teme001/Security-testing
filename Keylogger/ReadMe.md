@@ -4,4 +4,4 @@ Additional modifications can be made such as adding a send to email feature or r
 
 
 
-PLEASE NOTE : This project is intended for educational purposes only. It is designed to help individuals learn about keyloggers work. Unauthorized testing from the owner is illegal and unethical. The author does not condone or encourage any malicious use of this code. Users are solely responsible for ensuring compliance with all applicable laws and regulations.
+PLEASE NOTE : This project is intended for educational purposes only. It is designed to help individuals learn about keyloggers work. Unauthorized testing is illegal and unethical. The author does not condone or encourage any malicious use of this code. Users are solely responsible for ensuring compliance with all applicable laws and regulations.
